@@ -1,3 +1,0 @@
-This is a test file for SafeBackup.
-It contains a few lines of text.
-Backup should preserve this.

@@ -1,3 +1,0 @@
-Data file for testing deletion and restoration.
-Another line of content.
-End of file.
